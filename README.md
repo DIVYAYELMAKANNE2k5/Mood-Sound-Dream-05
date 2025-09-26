@@ -1,5 +1,7 @@
 # Mood Sound Dream
 
+Take a look at Live Website : https://mood-sound-dream-05.vercel.app/
+
 Mood Sound Dream is an interactive web application built with React and Vite, designed to create immersive soundscapes based on user moods or dream themes. Users can explore ambient audio experiences tailored to their emotional state, featuring a modern, responsive interface powered by Tailwind CSS and Shadcn UI components.
 
 ## Features
@@ -95,3 +97,4 @@ For major changes, please open an issue first to discuss.
 ## License
 
 This project is open-source and available under the MIT License (or specify if different).
+
